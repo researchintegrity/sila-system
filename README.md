@@ -1,4 +1,4 @@
- **SILA: A System for Scientific Image Analysis**
+ # SILA: A System for Scientific Image Analysis
 
 Source codes to reproduce the experimental results of our Nature Scientific Reports paper titled "SILA: a system for scientific image
 analysis", available at https://www.nature.com/articles/s41598-022-21535-3.
