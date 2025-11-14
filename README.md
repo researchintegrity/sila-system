@@ -1,6 +1,6 @@
 # Provenance Analysis
 
-Source code and test script of [RIVIEW's](https://github.com/danielmoreira/sciint/tree/master) provenance analysis
+Source code and test script of [SILA's](https://github.com/researchintegrity/sila-system/tree/main) provenance analysis
 module.
 
 > This is a new version of the provenance analysis module.
