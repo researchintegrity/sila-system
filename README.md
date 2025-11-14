@@ -1,5 +1,4 @@
-# RIVIEW: Research Integrity - Virtual Image Examination Workspace
-*Former SILA: A System for Scientific Image Analysis*
+ SILA: A System for Scientific Image Analysis*
 
 Source codes to reproduce the experimental results of our Nature Scientific Reports paper titled "SILA: a system for scientifc image
 analysis", available at https://www.nature.com/articles/s41598-022-21535-3.
@@ -8,7 +7,7 @@ analysis", available at https://www.nature.com/articles/s41598-022-21535-3.
 ## Scientific Papers Dataset
 To support assessing the efficacy of the system proposed in the paper, we collected a dataset of scientific manuscripts containing annotated image manipulations and inadvertent figure reuse.
 This dataset is available in the following project branch:  
-* [RIVIEW Dataset](https://git.io/JcZsX)
+* [SILA Dataset](https://git.io/JcZsX)
 
 *Disclaimer.*
 Each paper in the dataset is referred to by its public Digital Object Identifier (DOI).
